@@ -11,7 +11,7 @@
 
 **Summary.** A criminal syndicate, loud and quick, that mails widely and extorts whoever pays. A long public indicator trail since 2023. Confidence: high on scale, medium on motive.
 
-![CRIMSON PETREL: the diamond as MTR publishes it](../../figures/fig5b.png)
+![CRIMSON PETREL: the diamond as MTR publishes it](../figures/fig5b.png)
 
 ## Attribute details
 
