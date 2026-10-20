@@ -9,7 +9,7 @@
 - **Hours (UTC).** 14:00 to 23:00
 - **Public record.** Two reports on hosting and victims
 
-![ONYX ORCA: the diamond as MTR publishes it](../../figures/fig5e.png)
+![ONYX ORCA: the diamond as MTR publishes it](../figures/fig5e.png)
 
 ## Attribute details
 
