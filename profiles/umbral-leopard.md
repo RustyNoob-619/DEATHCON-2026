@@ -9,7 +9,7 @@
 - **Hours (UTC).** 04:00 to 13:00
 - **Public record.** 2025 MTR report "The Quiet Collector": network indicators and victimology only. The samples MTR holds reached SWORD under TLP:RED
 
-![UMBRAL LEOPARD: the diamond as MTR publishes it](../../figures/fig5a.png)
+![UMBRAL LEOPARD: the diamond as MTR publishes it](../figures/fig5a.png)
 
 ## Attribute details
 
