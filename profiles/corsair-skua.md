@@ -9,7 +9,7 @@
 - **Hours (UTC).** 12:00 to 21:00
 - **Public record.** Leaked developer paths in three public reports
 
-![CORSAIR SKUA: the diamond as MTR publishes it](../../figures/fig5c.png)
+![CORSAIR SKUA: the diamond as MTR publishes it](../figures/fig5c.png)
 
 ## Attribute details
 
