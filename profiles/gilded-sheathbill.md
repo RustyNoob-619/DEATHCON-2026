@@ -9,7 +9,7 @@
 - **Hours (UTC).** Automated
 - **Public record.** A 2025 kit review with a build machine ID
 
-![GILDED SHEATHBILL: the diamond as MTR publishes it](../../figures/fig5d.png)
+![GILDED SHEATHBILL: the diamond as MTR publishes it](../figures/fig5d.png)
 
 ## Attribute details
 
