@@ -17,6 +17,6 @@ The platform's Capstone section shows pages 1 to 3, so you can read them beside 
 
 **OPTION2**: Guided walkthrough, leverage 3. `03-tasks.md`, which provides analysts with set of fields to probe for advancing through the stages, good luck!
 
-**NOTE**: Use flare 1 (`case-files/flares/S2-config.md` and `case-files/flares/S3-beacons.md`) after uncovering 
+**NOTE**: Use flare 1 (`case-files/flares/S2-config.md`, `case-files/flares/S3-beacons.md` and `case-files/flares/S6-edr-audit.md`) after uncovering the implant
 
 **Before you begin:** this pack describes records in the platform's Hold, among real samples. Never execute anything from the Hold, and do not upload anything from it to a public service. Do not use open-source intelligence to complete this exercise.
